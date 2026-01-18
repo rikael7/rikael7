@@ -20,7 +20,7 @@ Sou um profissional híbrido que conecta a lógica da **Engenharia** com a usabi
 - ⚛️ **Frontend:** Criação de interfaces Pixel-Perfect com **React, Next.js e TypeScript**.
 - 🎨 **Design:** UX/UI com foco em Design Systems (Figma).
 - ⚙️ **Engenharia:** Automação de processos com **Python, N8N, CLP e Ignition**.
-- 🌐 **Portfólio:** [rikaeldev.com](https://filipimoraes.com)
+- 🌐 **Portfólio:** [rikaeldev.com](https://rikaeldev.com)
 
 ---
 
@@ -64,16 +64,16 @@ Sou um profissional híbrido que conecta a lógica da **Engenharia** com a usabi
 ## 📫 Vamos Conversar?
 
 <div align="center">
-  <a href="https://linkedin.com/in/filipimoraes" target="_blank">
+  <a href="https://linkedin.com/in/rikaeldev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/FilipiWanderley" target="_blank">
+  <a href="https://github.com/rikael7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
-  <a href="mailto:filipiwms@gmail.com" target="_blank">
+  <a href="mailto:rikaeldeveloper@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://wa.me/5581995866387" target="_blank">
+  <a href="https://wa.me/5181434021" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
   <a href="https://filipimoraes.com" target="_blank">
