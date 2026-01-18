@@ -76,7 +76,7 @@ Sou um profissional híbrido que conecta a lógica da **Engenharia** com a usabi
   <a href="https://wa.me/5181434021" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
-  <a href="https://filipimoraes.com" target="_blank">
+  <a href="https://rikaeldev.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
   </a>
 </div>
