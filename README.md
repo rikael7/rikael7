@@ -41,6 +41,7 @@ Sou um profissional híbrido que conecta a lógica da **Engenharia** com a usabi
 ### • Backend & Architecture
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-339933?style=for-the-badge&logo=Spring&logoColor=green)
+![Django](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=Django&logoColor=blue)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge&logo=docker&logoColor=white)
 
