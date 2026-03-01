@@ -87,8 +87,7 @@ Sou um profissional híbrido que conecta a lógica da **Engenharia** com a usabi
   <a href="https://rikaeldev.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
   </a>
+</div>
+
 📧 Email: rikaeldeveloper@outlook.com<br>
 🌍 Disponível para trabalho remoto global
-
-
-</div>
