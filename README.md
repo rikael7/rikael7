@@ -1,3 +1,5 @@
+[🇧🇷 Português](./readme.md) | [🇺🇸 English](./readme.en.md)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Rikael%20Ribeiro&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:326E07,100:63ED07" alt="Banner animado"/>
 
 
