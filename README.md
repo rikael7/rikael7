@@ -24,7 +24,6 @@ Sou um profissional híbrido que conecta a lógica da **Engenharia** com a usabi
 -  **Frontend:** Criação de interfaces Pixel-Perfect com **React, Next.js e TypeScript**.
 -  **Design:** UX/UI com foco em Design Systems (Figma).
 -  **Engenharia:** Automação de processos com **Python, N8N, CLP e Ignition**.
--  **Portfólio:** [rikaeldev.com](https://rikaeldev.com)
 
 ---
 
